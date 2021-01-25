@@ -20,7 +20,7 @@
 	🚧  GoBarber 🚀 Projeto para estudo finalizado 🚧
 </h4>
 
-## 📓 Sobre o projeto
+## Sobre o projeto
 
 GoBarber é um projeto para barbearias realizarem a gestão dos agendamentos de seus prestadores de serviço e seus clientes.
 
@@ -38,7 +38,7 @@ Para cadastro de fornecedores utilizar o cliente web
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Abaixo as tecnologias utilizadas para construção do App
 
@@ -50,7 +50,7 @@ Abaixo as tecnologias utilizadas para construção do App
 
 ---
 
-## 💻 Configurações necessárias
+## Configurações necessárias
 
 ### **Requisitos**
 
@@ -103,7 +103,7 @@ $ npx react-native run-ios
 
 ---
 
-## 📝 Licença
+## Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
